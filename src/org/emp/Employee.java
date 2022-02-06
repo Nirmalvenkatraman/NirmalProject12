@@ -8,5 +8,8 @@ public static void main(String[] args) {
 	Employee e=new Employee();
 	e.add();
 }
+public void employeeDetails() {
+System.out.println("employee id 1234 ");
+}
 
 }
